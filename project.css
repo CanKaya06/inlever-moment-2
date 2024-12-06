@@ -1,0 +1,119 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(46, 48, 51);
+    color: white;
+}
+
+header {
+    background-color: rgb(46, 48, 51);
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+nav {
+    text-align: center;
+    background-color: rgb(46, 48, 51);
+    padding: 10px 0;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 1.2em;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+section {
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.gallery img {
+    width: 100%;
+    max-width: 400px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+footer {
+    background-color: rgb(46, 48, 51);
+    color: white;
+    text-align: center;
+    padding: 20px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+.gallery {
+    background-color: rgb(46, 48, 51);
+}
+
+.over-mij img {
+    width: 100%;
+    max-width: 400px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.home img {
+    width: 100%;
+    max-width: 400px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.tips img {
+    width: 100%;
+    max-width: 400px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.tips {
+    text-align: center;
+}
+
+.teksth2 {
+    text-align: center;
+}
+
+.p1 {
+    text-align: center;
+}
+
+
+.sex3 img {
+    width: 100%;
+    max-width: 400px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.sex4 img {
+    width: 100%;
+    max-width: 400px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.sex5 img {
+    width: 100%;
+    max-width: 400px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+
+
